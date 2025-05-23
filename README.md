@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/tu_banner.png" alt="Ricardo Fragozo | Data Analyst" width="100%"/>
+<img src="https://i.imgur.com/a/DS6ewH2.png" alt="Ricardo Fragozo | Data Analyst" width="100%"/>
 
 ## ¡Hola, soy Ricardo! 👋
 
