@@ -1,4 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/MMGQotm" data-context="false" ><a href="//imgur.com/a/MMGQotm"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ## ¡Hola, soy Ricardo! 👋
 
 🎧 *Apasionado por los datos, la música y las buenas historias visualizadas en dashboards.*
