@@ -1,39 +1,47 @@
-# 👋 ¡Hola! Soy Ricardo Fragozo
+<img src="https://i.imgur.com/tu_banner.png" alt="Ricardo Fragozo | Data Analyst" width="100%"/>
 
-🎯 **Analista de Datos en formación con enfoque en audiencias, tecnología y creatividad**
+## ¡Hola, soy Ricardo! 👋
 
-Me apasiona resolver problemas a través de datos. Disfruto analizar el comportamiento de la audiencia utilizando herramientas estadísticas, visualización de datos y programación. Lo que más me motiva es transformar números en historias que generen valor y guíen decisiones inteligentes.
-
-🎓 Actualmente estoy concluyendo un bootcamp de tecnología en **TripleTen**, donde he desarrollado proyectos aplicando **Python**, **SQL**, visualización de datos y análisis estadístico. También cuento con experiencia previa en **logística y manejo de datos dentro del sector turístico**, lo cual ha reforzado mis habilidades de atención al detalle, responsabilidad y análisis operativo.
-
-🎵 Además, tengo un profundo interés por la industria musical y cómo la ciencia de datos puede aportar en ese entorno creativo.
+🎧 *Apasionado por los datos, la música y las buenas historias visualizadas en dashboards.*
 
 ---
 
-## 🧠 Habilidades Técnicas
+### 💬 Sobre mí
 
-- Python (Pandas, NumPy, Sklearn)
-- SQL
-- Visualización: Matplotlib, Seaborn, Power BI, Tableau
-- Dashboards y apps: Streamlit, Dash
-- JSON y manipulación de datos
-- Excel para análisis y modelado
-
----
-
-## 🚀 Proyectos Destacados
-
-🔗 [Repositorio de proyectos del bootcamp](https://github.com/RicardoAFV/proyectos_bootcamp)
-
-En este repositorio encontrarás casos reales donde he trabajado con embudos de conversión, visualización interactiva, pruebas A/B y más.
+🎯 Actualmente estoy concluyendo un bootcamp de tecnología en **TripleTen**  
+📊 Disfruto transformar datos en decisiones inteligentes  
+💻 Trabajo con **Python**, **SQL**, **Power BI** y herramientas de análisis  
+🎵 Interesado en aplicar la ciencia de datos a industrias creativas como la música  
+📍 Experiencia previa en el sector turístico, logística y análisis operativo  
 
 ---
 
-## 📫 Contacto
+### 🛠️ Lenguajes y herramientas
 
-- 💼 [Conecta conmigo en LinkedIn](https://www.linkedin.com/in/ricardo-abner-fragozo-vergara-b28925345/)
-- 📧 ricardoabner89@gmail.com
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-*Gracias por visitar mi perfil. ¡Estoy abierto a oportunidades y colaboraciones interesantes en el mundo de los datos!* 🚀
+### 📊 Mis estadísticas
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RicardoAFV&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAFV&layout=compact&theme=dark)](https://github.com/RicardoAFV)
+
+---
+
+### 📁 Proyectos destacados
+
+🔹 [proyectos_bootcamp](https://github.com/RicardoAFV/proyectos_bootcamp): Análisis, visualizaciones interactivas y modelos aplicados a casos reales.
+
+---
+
+### 📫 ¿Hablamos?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ricardo-abner-fragozo-vergara-b28925345/)
+📧 ricardoabner89@gmail.com
+
