@@ -1,15 +1,26 @@
-<img src="https://i.imgur.com/f3Py28s.png" alt="Ricardo Fragozo | Data Analyst" width="100%"/>
+<div align="center">
+  <img src="https://i.imgur.com/f3Py28s.png" alt="Ricardo Fragozo | Data Analyst" width="100%" />
+</div>
 
-# 👋 ¡Hola! Soy Ricardo Fragozo
+<h1 align="center">👋 ¡Hola! Soy Ricardo Fragozo</h1>
 
-🎧 *Apasionado por los datos, la música y las buenas historias visualizadas en dashboards.*
+<p align="center">
+  🎧 <em>Apasionado por los datos, la música y las buenas historias visualizadas en dashboards.</em>
+</p>
 
 ---
 
-### 📫 ¿Hablamos?
+<h3 align="center">📫 ¿Hablamos?</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ricardo-abner-fragozo-vergara-b28925345/)
-[![Contactar por email](https://img.shields.io/badge/📧%20Enviar%20correo-blue)](ricardoabner89@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricardo-abner-fragozo-vergara-b28925345/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ricardoabner89@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Enviar%20correo-blue" alt="Email" />
+  </a>
+</p>
+
 ---
 
 ### 💬 Sobre mí
@@ -24,20 +35,26 @@
 
 ### 🛠️ Lenguajes y herramientas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 Mis estadísticas
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RicardoAFV&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoAFV&theme=dark" alt="GitHub Streak" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAFV&layout=compact&theme=dark)](https://github.com/RicardoAFV)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAFV&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 
 ---
 
