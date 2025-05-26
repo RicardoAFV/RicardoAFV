@@ -9,7 +9,7 @@
 ### 📫 ¿Hablamos?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ricardo-abner-fragozo-vergara-b28925345/)
-📧 ricardoabner89@gmail.com
+[![Contactarme](https://img.shields.io/badge/Contáctame-Email-blue)](ricardoabner89@gmail.com)
 
 ---
 
