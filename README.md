@@ -60,7 +60,7 @@
 
 ### 📁 Proyectos destacados
 
-🔹 [proyectos_bootcamp]([https://github.com/RicardoAFV/portafolio]): Análisis, visualizaciones interactivas y modelos aplicados a casos reales.
+🔹 [proyectos_bootcamp](https://github.com/RicardoAFV/portafolio)): Análisis, visualizaciones interactivas y modelos aplicados a casos reales.
 
 ---
 
